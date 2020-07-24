@@ -1,0 +1,22 @@
+{
+  "name": "npm_init_pac",
+  "version": "0.0.1",
+  "description": "npm start",
+  "main": "index.js",
+  "dependencies": {
+    "bower": "^1.8.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "npm"
+  },
+  "keywords": [
+    "kimjae"
+  ],
+  "author": "ISC",
+  "license": "ISC"
+}
